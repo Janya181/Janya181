@@ -1,6 +1,8 @@
 ## Hi there 👋
 <br>
 Learning Git
+<br>
+Author-Janya Gupta
 
 <!--
 **Janya181/Janya181** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
